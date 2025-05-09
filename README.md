@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haarish145&label=Profile%20views&color=0e75b6&style=flat" alt="haarish145" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haarish145" alt="haarish145" /></a> </p>
-
 - Aspiring Full-Stack Developer with a strong foundation in front-end and back-end technologies. Proficient in web development, UI/UX design, and database management, with experience in building interactive and scalable web applications. Passionate about developing efficient, user-friendly solutions and continuously improving technical skills. [Air-Quality-Monitoring-System](https://github.com/Haarish145/IOT-Based-Air-Quality-Monitoring-System)
 
 - Done an 1-month online Internship in the role of Web Developer with outstanding remarks organized by Prodigy Infotech. [Weather Application(Web)](https://github.com/Haarish145/PRODIGY_WD_05)
