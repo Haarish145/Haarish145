@@ -9,11 +9,11 @@
 
 - Done an 1-month online Internship in the role of Web Developer with outstanding remarks organized by Prodigy Infotech. [Weather Application(Web)](https://github.com/Haarish145/PRODIGY_WD_05)
 
-- 👨‍💻 All of my projects are available at [https://haarishk145.netlify.app/](https://haarishk145.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://haarishk145.netlify.app/)
 
 - 📫 How to reach me **haarishk2646@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1P-VIzmQBm6lhWE_T9kNBsmdVCBiQ-iUD/view?usp=sharing](https://drive.google.com/file/d/1AisqiTPVY9eLYhMSHKqpDdiKfZN3MQ56/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1AisqiTPVY9eLYhMSHKqpDdiKfZN3MQ56/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
