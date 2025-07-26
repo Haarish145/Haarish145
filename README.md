@@ -6,9 +6,9 @@
 - A diligent and creative individual seeking a challenging role in the field of Computer Science to apply academic knowledge, enhance practical skills, and contribute meaningfully to organizational growth. Proficient in Agile methodology for project management to ensure optimal delivery in a fast-paced Agile Environment.
 I’ve worked on several impactful projects, including:
 
-🔗 Air Quality Monitoring System – An IoT-based system to monitor air pollutants in real time.
+🔗 [Air Quality Monitoring System](https://github.com/Haarish145/IOT-Based-Air-Quality-Monitoring-System) – An IoT-based system to monitor air pollutants in real time.
 
-🔗 Intruder Detection and Automatic Email Alerting System – A security solution that detects intrusions and sends email alerts instantly.
+🔗 [Intruder Detection and Automatic Email Alerting System](https://github.com/Haarish145/Intruder-Detection-and-Automatic-Email-Alerting-System) – A security solution that detects intrusions and sends email alerts instantly.
 
 I’ve also built other projects spanning web development, automation, and smart systems.
 Feel free to explore more in the Projects section of my portfolio, or visit my GitHub repositories.
