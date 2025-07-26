@@ -3,9 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haarish145&label=Profile%20views&color=0e75b6&style=flat" alt="haarish145" /> </p>
 
-- A diligent and creative individual seeking a challenging role in the field of Computer Science to apply academic knowledge, enhance practical skills, and contribute meaningfully to organizational growth. Proficient in Agile methodology for project management to ensure optimal delivery in a fast-paced Agile Environment. [Air-Quality-Monitoring-System](https://github.com/Haarish145/IOT-Based-Air-Quality-Monitoring-System)
+- A diligent and creative individual seeking a challenging role in the field of Computer Science to apply academic knowledge, enhance practical skills, and contribute meaningfully to organizational growth. Proficient in Agile methodology for project management to ensure optimal delivery in a fast-paced Agile Environment.
+I’ve worked on several impactful projects, including:
 
-- [Intruder-Detection-and-Automatic-Email-Alerting-System](https://github.com/Haarish145/Intruder-Detection-and-Automatic-Email-Alerting-System), I have worked on several other projects as well. If you're interested, feel free to visit the Projects section of my portfolio linked below.
+🔗 Air Quality Monitoring System – An IoT-based system to monitor air pollutants in real time.
+
+🔗 Intruder Detection and Automatic Email Alerting System – A security solution that detects intrusions and sends email alerts instantly.
+
+I’ve also built other projects spanning web development, automation, and smart systems.
+Feel free to explore more in the Projects section of my portfolio, or visit my GitHub repositories.
 - Done an 1-month online Internship in the role of Web Developer with outstanding remarks organized by Prodigy Infotech. [Weather Application(Web)](https://github.com/Haarish145/PRODIGY_WD_05)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://haarishk145.netlify.app/)
