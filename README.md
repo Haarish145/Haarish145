@@ -18,7 +18,7 @@ Feel free to explore more in the Projects section of my portfolio, or visit my G
 
 - 📫 How to reach me **haarishk2646@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1AisqiTPVY9eLYhMSHKqpDdiKfZN3MQ56/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1cWYCCWf2mhXa_91dxoKNEDp9ijHJB4zA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
