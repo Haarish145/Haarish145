@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haarish145&label=Profile%20views&color=0e75b6&style=flat" alt="haarish145" /> </p>
 
-- A diligent and creative individual seeking a challenging role in the field of Computer Science to apply academic knowledge, enhance practical skills, and contribute meaningfully to organizational growth. Proficient in Agile methodology for project management to ensure optimal delivery in a fast-paced Agile Environment.
+- Enthusiastic Software Engineer skilled in Agile practices and programming fundamentals. Passionate about building efficient, high- quality applications. Eager to learn new technologies and contribute to organizational success.
 I’ve worked on several impactful projects, including:
 
 🔗 [Air Quality Monitoring System](https://github.com/Haarish145/IOT-Based-Air-Quality-Monitoring-System) – An IoT-based system to monitor air pollutants in real time.
